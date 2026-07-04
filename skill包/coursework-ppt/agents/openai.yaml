@@ -1,0 +1,4 @@
+interface:
+  display_name: "作业类 PPT"
+  short_description: "先核验资料再制作严谨美观且字号清晰的课程作业PPT"
+  default_prompt: "Use $coursework-ppt to create a rigorous, source-backed coursework presentation."
