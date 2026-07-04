@@ -1,4 +1,4 @@
-# coursework-ppt
+# academic-presentation-skill
 
 中文 | [English](#english)
 
@@ -16,7 +16,7 @@
 - Skill 路径：`skill包/coursework-ppt`
 - 入口文件：`skill包/coursework-ppt/SKILL.md`
 - 界面配置：`skill包/coursework-ppt/agents/openai.yaml`
-- 中文展示名：`作业类 PPT`
+- 中文展示名：`课程与学术展示 PPT`
 
 ## 适合什么任务
 
@@ -224,7 +224,7 @@ By the way, actually you can directly give the repository link to Codex and let 
 - Skill path: `skill包/coursework-ppt`
 - Entry file: `skill包/coursework-ppt/SKILL.md`
 - Interface config: `skill包/coursework-ppt/agents/openai.yaml`
-- Display name: `作业类 PPT`
+- Display name: `课程与学术展示 PPT`
 
 ## What This Skill Is For
 
